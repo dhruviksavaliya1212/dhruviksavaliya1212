@@ -22,7 +22,7 @@ When I'm not coding, I enjoy exploring new web development frameworks, optimizin
 - **Cloud**: AWS, Render, Netlify, Vercel
 
 ## 📊 GitHub Stats
-![dhruvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvik&show_icons=true&count_private=true&hide_title=true&hide=prs)
+![dhruvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvik&show_icons=true&count_private=true&hide_title=true)
 
 
 ## 🔗 Connect with Me
